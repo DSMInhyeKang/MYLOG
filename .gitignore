@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/swift,xcode,macos,cocoapods
-# Edit at https://www.toptal.com/developers/gitignore?templates=swift,xcode,macos,cocoapods
+# Created by https://www.toptal.com/developers/gitignore/api/xcodeinjection,xcode,swift,swiftpackagemanager,swiftpm,cocoapods,macos
+# Edit at https://www.toptal.com/developers/gitignore?templates=xcodeinjection,xcode,swift,swiftpackagemanager,swiftpm,cocoapods,macos
 
 ### CocoaPods ###
 ## CocoaPods GitIgnore Template
@@ -126,6 +126,15 @@ fastlane/test_output
 
 iOSInjectionProject/
 
+### SwiftPackageManager ###
+Packages
+xcuserdata
+*.xcodeproj
+
+
+### SwiftPM ###
+
+
 ### Xcode ###
 
 ## Xcode 8 and earlier
@@ -134,8 +143,15 @@ iOSInjectionProject/
 *.xcodeproj/*
 !*.xcodeproj/project.pbxproj
 !*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
 !*.xcworkspace/contents.xcworkspacedata
 /*.gcno
 **/xcshareddata/WorkspaceSettings.xcsettings
 
-# End of https://www.toptal.com/developers/gitignore/api/swift,xcode,macos,cocoapods
+### XcodeInjection ###
+# Code Injection
+# After new code Injection tools there's a generated folder /iOSInjectionProject
+# https://github.com/johnno1962/injectionforxcode
+
+
+# End of https://www.toptal.com/developers/gitignore/api/xcodeinjection,xcode,swift,swiftpackagemanager,swiftpm,cocoapods,macos

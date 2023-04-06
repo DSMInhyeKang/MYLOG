@@ -15,5 +15,7 @@ target 'MYLOG' do
 	pod 'Then'
 	pod 'ReactorKit'
 	pod 'RxFlow'
+	pod 'Kingfisher', '~> 7.0'
+	pod 'SwiftLint'
 
 end
