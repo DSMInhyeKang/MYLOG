@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/xcodeinjection,xcode,swift,swiftpackagemanager,swiftpm,cocoapods,macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=xcodeinjection,xcode,swift,swiftpackagemanager,swiftpm,cocoapods,macos
+# Created by https://www.toptal.com/developers/gitignore/api/xcode,xcodeinjection,swift,swiftpackagemanager,swiftpm,macos,cocoapods
+# Edit at https://www.toptal.com/developers/gitignore?templates=xcode,xcodeinjection,swift,swiftpackagemanager,swiftpm,macos,cocoapods
 
 ### CocoaPods ###
 ## CocoaPods GitIgnore Template
@@ -154,4 +154,4 @@ xcuserdata
 # https://github.com/johnno1962/injectionforxcode
 
 
-# End of https://www.toptal.com/developers/gitignore/api/xcodeinjection,xcode,swift,swiftpackagemanager,swiftpm,cocoapods,macos
+# End of https://www.toptal.com/developers/gitignore/api/xcode,xcodeinjection,swift,swiftpackagemanager,swiftpm,macos,cocoapods
