@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct NewDiaryView: View {
+struct MyPageView: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
@@ -19,8 +19,8 @@ struct NewDiaryView: View {
     }
 }
 
-struct NewDiaryView_Previews: PreviewProvider {
+struct MyPageView_Previews: PreviewProvider {
     static var previews: some View {
-        NewDiaryView()
+        MyPageView()
     }
 }

@@ -1,13 +1,13 @@
 //
-//  NewDiaryView.swift
+//  ChartView.swift
 //  MYLOG
 //
-//  Created by 강인혜 on 28/6/23.
+//  Created by 강인혜 on 30/6/23.
 //
 
 import SwiftUI
 
-struct NewDiaryView: View {
+struct ChartView: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
@@ -19,8 +19,8 @@ struct NewDiaryView: View {
     }
 }
 
-struct NewDiaryView_Previews: PreviewProvider {
+struct ChartView_Previews: PreviewProvider {
     static var previews: some View {
-        NewDiaryView()
+        ChartView()
     }
 }
